@@ -2,7 +2,7 @@
 
 I am a ML developer that loves to working with different Machine Learning and Natural Language Processing algorithms and contributing to open source.
 
-### My Reseach Interest:
+My Reseach Interest:
 
 Natural Language Processing
 Statistics
