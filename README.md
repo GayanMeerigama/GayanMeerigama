@@ -4,10 +4,10 @@ I am a ML developer that loves to working with different Machine Learning and Na
 
 My Reseach Interest:
 
-Natural Language Processing
-Statistics
-Classification
-Clustering
+-Natural Language Processing
+-Statistics
+-Classification
+-Clustering
 
 
 <!--
